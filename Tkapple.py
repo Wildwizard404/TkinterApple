@@ -1,4 +1,4 @@
-﻿from tkinter import *
+from tkinter import *
 from PIL import Image,ImageTk
 import os,sys,time 
 import pygame
